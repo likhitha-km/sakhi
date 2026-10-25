@@ -2,6 +2,8 @@
 
 A private, on-device companion that helps a woman carry what was said at one medical visit into the next one, across every doctor and system of medicine she uses.
 
+### 🔗 Demo URL: **[animated-profiterole-424bfc.netlify.app](https://animated-profiterole-424bfc.netlify.app)**
+
 ## The problem
 
 Many women in India see several clinicians for the same concern: a gynaecologist, a general physician, an Ayurveda or homeopathy practitioner, a pharmacist. Each visit starts almost from zero. Advice is half remembered, tests are not done for reasons nobody asks about, and one clinician often does not know what another has prescribed. Period and symptom apps keep logs, and some make a one-off report, but the thread between visits (what was advised, what actually happened, what is still unanswered) usually lives in her memory, a notes app or a WhatsApp chat.
