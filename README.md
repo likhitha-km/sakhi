@@ -149,10 +149,10 @@ The tests cover the counting engine, the visit loop and the Consult Card, sharin
 
 ## Acknowledgements
 
-Built for the recHERsion 2026 hackathon. Sakhi uses open-source software: React, Vite, TypeScript, Dexie, Zod, Lucide icons, and the Source Serif 4 and Figtree fonts through Fontsource (MIT, Apache 2.0 and SIL Open Font License). The optional AI helper uses Nebius Token Factory. Warning sign content draws on public guidance from the NHS, NICE and CDC.
+Sakhi uses open-source software: React, Vite, TypeScript, Dexie, Zod, Lucide icons, and the Source Serif 4 and Figtree fonts through Fontsource (MIT, Apache 2.0 and SIL Open Font License). The optional AI helper uses Nebius Token Factory. Warning sign content draws on public guidance from the NHS, NICE and CDC.
 
-## Licence
+## License
 
-No licence has been chosen for this repository yet. Until one is added, the code is published for viewing and evaluation only, and no permission to reuse it is granted.
+MIT License
 
 All health data in this repository is made up. No real patient information is included.
