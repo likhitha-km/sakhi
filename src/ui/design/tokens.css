@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+  --pink-500: #F4A6C1; --pink-100: #FBE7EF;
+  --blue-500: #6FA8DC; --blue-100: #E8F2FC;
+  --cream-50: #F9F5F0; --white: #FFFFFF;
+  --ink-900: #282631;
+  --pink-700: #B83A74; --blue-700: #2F6DA8; --ink-600: #5B5866;
+  --alert-700: #B3261E; --alert-100: #FCE9E7;
+  --border: #D9D2CA;
+  --radius-sm: 6px; --radius-md: 10px; --radius-lg: 14px;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+  --space-5: 24px; --space-6: 32px; --space-7: 48px; --space-8: 72px;
+  --font-serif: 'Source Serif 4 Variable', 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Figtree Variable', Figtree, system-ui, 'Noto Sans Devanagari', 'Noto Sans Kannada', 'Segoe UI', sans-serif;
+  --focus: 3px solid var(--blue-700);
+  --shadow-1: 0 1px 2px rgba(40, 38, 49, 0.08);
+}

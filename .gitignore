@@ -1,0 +1,37 @@
+# Dependencies and build output
+node_modules
+dist
+*.tsbuildinfo
+coverage
+
+# Secrets and local settings (copy the .env.example files instead)
+.env
+.env.*
+!.env.example
+proxy/.env
+*.local
+*.pem
+*.key
+*.p12
+
+# Personal exports and backups
+exported-briefs/
+*.sakhi
+*.tar.gz
+*.zip
+
+# Internal planning and working notes, not for publication
+STATUS.md
+docs/competitors.md
+Sakhi Final Decision and Implementation Blueprint*.pdf
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Keep only the main README among Markdown files, and no PDFs
+*.pdf
+*.md
+!/README.md
